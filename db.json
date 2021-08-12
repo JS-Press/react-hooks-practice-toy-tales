@@ -49,7 +49,8 @@
       "likes": -2
     },
     {
-      "id": 9
+      "id": 9,
+      "likes": 3
     },
     {
       "name": "Stretch Armstrong",
@@ -58,28 +59,16 @@
       "id": 10
     },
     {
-      "name": "Rubik's Cube",
-      "image": "https://images.squarespace-cdn.com/content/v1/5943b11db3db2be040e6fa54/1584863714543-FYTYZ2VAEUYI83GTLYAL/rubik%27s+cube.jpg?format=1000w",
-      "likes": 12,
-      "id": 11
-    },
-    {
       "name": "Rubiks",
       "image": "https://images.squarespace-cdn.com/content/v1/5943b11db3db2be040e6fa54/1584863714543-FYTYZ2VAEUYI83GTLYAL/rubik%27s+cube.jpg?format=1000w",
-      "likes": 12,
+      "likes": 13,
       "id": 12
     },
     {
       "name": "Rubiks",
       "image": "https://images.squarespace-cdn.com/content/v1/5943b11db3db2be040e6fa54/1584863714543-FYTYZ2VAEUYI83GTLYAL/rubik%27s+cube.jpg?format=1000w",
-      "likes": 12,
+      "likes": 15,
       "id": 13
-    },
-    {
-      "name": "RC",
-      "image": "https://images.squarespace-cdn.com/content/v1/5943b11db3db2be040e6fa54/1584863714543-FYTYZ2VAEUYI83GTLYAL/rubik%27s+cube.jpg?format=1000w",
-      "likes": 12,
-      "id": 14
     }
   ]
 }
