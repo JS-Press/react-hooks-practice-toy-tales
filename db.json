@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 2,
@@ -40,35 +40,19 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 5
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
-    },
-    {
-      "id": 9,
-      "likes": 3
+      "likes": 11
     },
     {
       "name": "Stretch Armstrong",
       "image": "https://cdn.shoplightspeed.com/shops/605879/files/23619602/1024x1024x2/super-impulse-worlds-smallest-stretch-armstrong.jpg",
       "likes": 12,
       "id": 10
-    },
-    {
-      "name": "Rubiks",
-      "image": "https://images.squarespace-cdn.com/content/v1/5943b11db3db2be040e6fa54/1584863714543-FYTYZ2VAEUYI83GTLYAL/rubik%27s+cube.jpg?format=1000w",
-      "likes": 13,
-      "id": 12
-    },
-    {
-      "name": "Rubiks",
-      "image": "https://images.squarespace-cdn.com/content/v1/5943b11db3db2be040e6fa54/1584863714543-FYTYZ2VAEUYI83GTLYAL/rubik%27s+cube.jpg?format=1000w",
-      "likes": 15,
-      "id": 13
     }
   ]
 }
